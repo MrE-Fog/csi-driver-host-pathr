@@ -6,12 +6,12 @@ require (
 	github.com/container-storage-interface/spec v1.8.0
 	github.com/golang/glog v1.1.2
 	github.com/golang/protobuf v1.5.3
-	github.com/kubernetes-csi/csi-lib-utils v0.14.0
+	github.com/kubernetes-csi/csi-lib-utils v0.15.0
 	github.com/pborman/uuid v1.2.1
 	github.com/stretchr/testify v1.8.4
 	golang.org/x/net v0.14.0
 	google.golang.org/grpc v1.57.0
-	k8s.io/apimachinery v0.27.0
+	k8s.io/apimachinery v0.28.0
 	k8s.io/klog/v2 v2.100.1
 	k8s.io/kubernetes v1.28.0
 	k8s.io/utils v0.0.0-20230406110748-d93618cff8a2
@@ -42,7 +42,7 @@ require (
 	gopkg.in/yaml.v3 v3.0.1 // indirect
 	k8s.io/apiextensions-apiserver v0.0.0 // indirect
 	k8s.io/apiserver v0.27.0 // indirect
-	k8s.io/component-base v0.27.0 // indirect
+	k8s.io/component-base v0.28.0 // indirect
 	k8s.io/mount-utils v0.26.0 // indirect
 )
 
